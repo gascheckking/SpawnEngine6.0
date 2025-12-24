@@ -1,1 +1,0 @@
-This folder contains UI, icons and background assets for SpawnEngine Mesh UI.
